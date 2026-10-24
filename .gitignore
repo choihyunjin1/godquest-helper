@@ -27,3 +27,17 @@
 !/.github/ISSUE_TEMPLATE/
 /.github/ISSUE_TEMPLATE/*
 !/.github/ISSUE_TEMPLATE/bug_report.yml
+!/docs/screens/onboarding/
+/docs/screens/onboarding/*
+!/docs/screens/onboarding/01-github-download-link.jpg
+!/docs/screens/onboarding/02-github-assets.jpg
+!/docs/screens/onboarding/03-bluestacks-download.jpg
+!/docs/screens/onboarding/04-bluestacks-home.jpg
+!/docs/screens/onboarding/05-bluestacks-settings-menu.jpg
+!/docs/screens/onboarding/06-bluestacks-display.jpg
+!/docs/screens/onboarding/07-bluestacks-adb.jpg
+!/docs/screens/onboarding/08-app-connected.jpg
+!/docs/screens/onboarding/09-app-estate-input.jpg
+!/docs/screens/onboarding/10-app-estate-saved.jpg
+!/docs/screens/onboarding/11-app-ready.jpg
+!/docs/screens/onboarding/12-app-stopped.jpg
