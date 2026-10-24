@@ -6,7 +6,7 @@
 
 ## 0. 설치하기
 
-GitHub Releases에서 `GodQuestHelper-0.5.3-Setup.exe`를 받아 실행합니다. **Source code (zip)**과 **Code → Download ZIP**은 설치 앱이 아닙니다. 현재 GitHub 게시 준비 중이며 게시·다운로드 확인이 끝나기 전까지 README의 링크는 예정 주소입니다.
+GitHub Releases에서 `GodQuestHelper-0.5.3-Setup.exe`를 받아 실행합니다. **Source code (zip)**과 **Code → Download ZIP**은 설치 앱이 아닙니다. README의 설치 파일 링크는 로그인 없이 다운로드하고 SHA-256까지 확인한 공개 주소입니다.
 
 이 친구 공유용 시험판에는 게시자 서명이 없어 Windows에서 게시자 확인 경고가 나올 수 있습니다. PC 정책으로 실행이 차단되면 보호 기능을 끄거나 차단을 우회하지 마세요. 설치가 끝나면 바탕화면의 **갓퀘스트 균열 도우미**를 엽니다.
 
