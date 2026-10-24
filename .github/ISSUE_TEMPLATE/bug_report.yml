@@ -13,7 +13,7 @@ body:
     attributes:
       label: 앱 버전
       description: 앱에 표시되는 버전과 빌드 식별을 적어 주세요. 개인 설정 경로는 적지 마세요.
-      placeholder: 버전 / 빌드 식별
+      placeholder: "예: 0.5.3-image-preview / 20261024-153624-5fcc83"
     validations:
       required: true
   - type: dropdown
