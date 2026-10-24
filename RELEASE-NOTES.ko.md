@@ -14,7 +14,7 @@ Windows x64 + BlueStacks용 무료 친구 공유 시험판입니다. 게시자 �
 | SHA-256 | 866b6c97df0bfd2f2a26ccc94eda8504d670624bda289320da4122779ea8f13b |
 | 게시자 서명 | 없음 — 미서명 친구 공유용 시험판 |
 
-설치 파일의 다운로드 링크는 README에서 확인하세요. GitHub의 **Source code (zip)**과 저장소의 **Download ZIP**은 설치 앱이 아닙니다. 같은 버전 문자열의 이전 후보와 혼동하지 않도록 빌드 식별자와 SHA-256을 함께 확인합니다.
+설치 파일의 다운로드 링크는 README에서 확인하세요. GitHub의 <strong>Source code (zip)</strong>과 저장소의 **Download ZIP**은 설치 앱이 아닙니다. 같은 버전 문자열의 이전 후보와 혼동하지 않도록 빌드 식별자와 SHA-256을 함께 확인합니다.
 
 ## 이번 변경 사항
 
