@@ -1,0 +1,27 @@
+# Documentation-only public export: deny everything unless explicitly listed.
+*
+!/.gitignore
+!/README.md
+!/RELEASE-NOTES.ko.md
+!/docs/
+/docs/*
+!/docs/image-app-guide.md
+!/docs/release-notes.md
+!/docs/screens/
+/docs/screens/*
+!/docs/screens/image-app/
+/docs/screens/image-app/*
+!/docs/screens/image-app/01-connect.png
+!/docs/screens/image-app/02-register.png
+!/docs/screens/image-app/03-start-stop.png
+!/docs/screens/image-app/04-error-hold.png
+!/docs/screens/image-app/05-logs.png
+!/docs/screens/image-app/06-advanced.png
+!/docs/screens/image-app/07-settings-recovery.png
+!/docs/screens/image-app/08-stopped.png
+!/docs/screens/image-app/09-hold-state.png
+!/.github/
+/.github/*
+!/.github/ISSUE_TEMPLATE/
+/.github/ISSUE_TEMPLATE/*
+!/.github/ISSUE_TEMPLATE/bug_report.yml

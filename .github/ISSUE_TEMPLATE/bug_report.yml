@@ -1,0 +1,40 @@
+name: 오류 제보
+description: 앱 버전, 문제가 생긴 단계와 오류 문구를 알려 주세요.
+title: "[오류] "
+body:
+  - type: markdown
+    attributes:
+      value: |
+        GitHub 이슈는 공개될 수 있습니다. 게임 비밀번호·로그인 정보·개인 기기 주소·실제 영지 좌표를 적지 마세요.
+        전체 진단 ZIP, 개인 프로필, 게임 계정이 보이는 원본 화면은 공개 이슈에 첨부하지 마세요.
+        아래 세 항목만으로 먼저 제보해 주세요.
+  - type: input
+    id: version
+    attributes:
+      label: 앱 버전
+      description: 앱에 표시되는 버전과 빌드 식별을 적어 주세요. 개인 설정 경로는 적지 마세요.
+      placeholder: 버전 / 빌드 식별
+    validations:
+      required: true
+  - type: dropdown
+    id: stage
+    attributes:
+      label: 문제가 발생한 단계
+      options:
+        - 설치 또는 앱 실행
+        - 블루스택 연결
+        - 영지 등록
+        - 균열 탐색
+        - 영웅 선택 또는 출정
+        - 중지 또는 오류 확인
+        - 기타
+    validations:
+      required: true
+  - type: textarea
+    id: error
+    attributes:
+      label: 오류 문구와 상황
+      description: 어떤 버튼을 눌렀을 때 무엇이 표시됐는지 적어 주세요. 비밀번호·개인 좌표·기기 주소를 빼고 오류 문구만 옮겨 주세요.
+      placeholder: 마지막으로 누른 버튼 / 표시된 오류 / 앱이 멈췄는지 여부
+    validations:
+      required: true
