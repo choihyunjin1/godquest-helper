@@ -14,7 +14,7 @@
 
 ## 2. Releases에서 받는 경우
 
-[0.5.3 다운로드 페이지](https://github.com/choihyunjin1/godquest-helper/releases/tag/v0.5.3-friends-20261024)에서 아래로 내려 **Assets**를 펼칩니다. 첫 번째 **GodQuestHelper-0.5.3-Setup.exe**를 누릅니다. **SHA256SUMS.txt**는 확인용 파일이고 **Source code (zip/tar.gz)**은 설치 앱이 아닙니다. 저장소의 **Code → Download ZIP**도 설치용이 아닙니다.
+[0.5.3 다운로드 페이지](https://github.com/choihyunjin1/godquest-helper/releases/tag/v0.5.3-friends-20261024)에서 아래로 내려 **Assets**를 펼칩니다. 첫 번째 **GodQuestHelper-0.5.3-Setup.exe**를 누릅니다. **SHA256SUMS.txt**는 확인용 파일이고 <strong>Source code (zip/tar.gz)</strong>은 설치 앱이 아닙니다. 저장소의 **Code → Download ZIP**도 설치용이 아닙니다.
 
 ![실제 GitHub 릴리스의 Setup.exe와 Source code 구분](screens/onboarding/02-github-assets.jpg)
 
@@ -48,13 +48,13 @@ BlueStacks 안에서 갓퀘스트를 설치하고 실행합니다. Google 계정
 
 ## 7. 가로 화면 설정
 
-왼쪽 **디스플레이 → 가로모드(16:9)**를 확인합니다. 사진의 **1920×1080, 240 DPI**는 이 PC의 설정 예시입니다. 바꿨다면 **변경 사항 저장**을 누르고 BlueStacks의 재시작 안내를 따릅니다. 모든 설정을 사진과 똑같이 바꿀 필요는 없습니다. [공식 화면 설정 안내](https://support.bluestacks.com/hc/en-us/articles/4402958247949-How-to-change-screen-resolution-on-BlueStacks-5)
+왼쪽 <strong>디스플레이 → 가로모드(16:9)</strong>를 확인합니다. 사진의 **1920×1080, 240 DPI**는 이 PC의 설정 예시입니다. 바꿨다면 **변경 사항 저장**을 누르고 BlueStacks의 재시작 안내를 따릅니다. 모든 설정을 사진과 똑같이 바꿀 필요는 없습니다. [공식 화면 설정 안내](https://support.bluestacks.com/hc/en-us/articles/4402958247949-How-to-change-screen-resolution-on-BlueStacks-5)
 
 ![실제 BlueStacks 가로모드와 화면 해상도 설정](screens/onboarding/06-bluestacks-display.jpg)
 
 ## 8. Android 디버그 브리지(ADB) 켜기
 
-왼쪽 **고급 기능 설정 → Android 디버그 브리지(ADB)**를 켜고 **변경 사항 저장**을 누릅니다. 버전에 따라 **고급 설정 / Advanced**라고 표시됩니다. 사진은 이미 켜져 있어 저장 버튼이 비활성인 상태입니다. 아래 주소·포트는 PC마다 다를 수 있으므로 복사하지 않습니다. 앱이 자동으로 찾습니다. [공식 ADB 설정 안내](https://support.bluestacks.com/hc/en-us/articles/23925869130381-How-to-enable-Android-Debug-Bridge-on-BlueStacks-5)
+왼쪽 <strong>고급 기능 설정 → Android 디버그 브리지(ADB)</strong>를 켜고 **변경 사항 저장**을 누릅니다. 버전에 따라 **고급 설정 / Advanced**라고 표시됩니다. 사진은 이미 켜져 있어 저장 버튼이 비활성인 상태입니다. 아래 주소·포트는 PC마다 다를 수 있으므로 복사하지 않습니다. 앱이 자동으로 찾습니다. [공식 ADB 설정 안내](https://support.bluestacks.com/hc/en-us/articles/23925869130381-How-to-enable-Android-Debug-Bridge-on-BlueStacks-5)
 
 ![실제 BlueStacks에서 ADB가 켜진 파란색 상태](screens/onboarding/07-bluestacks-adb.jpg)
 

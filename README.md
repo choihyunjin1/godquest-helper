@@ -16,7 +16,7 @@ Windows x64와 BlueStacks에서 가까운 활성 균열을 찾아 대기 영웅�
 
 ## 1. GitHub에서 Setup.exe 받기
 
-위 설치 파일 링크를 누르면 로그인 없이 다운로드할 수 있습니다. 다운로드 페이지로 들어갔다면 아래 **Assets**를 펼쳐 **GodQuestHelper-0.5.3-Setup.exe**를 누릅니다. **Source code (zip)**이나 **Code → Download ZIP**은 설치 앱이 아닙니다.
+위 설치 파일 링크를 누르면 로그인 없이 다운로드할 수 있습니다. 다운로드 페이지로 들어갔다면 아래 **Assets**를 펼쳐 **GodQuestHelper-0.5.3-Setup.exe**를 누릅니다. <strong>Source code (zip)</strong>이나 **Code → Download ZIP**은 설치 앱이 아닙니다.
 
 ![GitHub Assets에서 첫 번째 Setup.exe를 받는 실제 화면](docs/screens/onboarding/02-github-assets.jpg)
 
@@ -32,13 +32,13 @@ Windows x64와 BlueStacks에서 가까운 활성 균열을 찾아 대기 영웅�
 
 이미 BlueStacks 5가 있으면 재설치할 필요 없습니다. 없다면 [BlueStacks 공식 다운로드](https://www.bluestacks.com/download.html)에서 받아 설치합니다. BlueStacks 안에서 갓퀘스트를 설치·실행하고 본인 게임 계정으로 로그인합니다.
 
-오른쪽 위 **≡ → 설정 → 디스플레이**에서 **가로모드(16:9)**를 사용합니다. 사진의 **1920×1080, 240 DPI**는 이 PC에서 사용한 예시입니다. 바꿨다면 **변경 사항 저장** 후 BlueStacks가 안내하는 재시작을 마칩니다. PC 사양에 맞는 설정은 [공식 화면 설정 안내](https://support.bluestacks.com/hc/en-us/articles/4402958247949-How-to-change-screen-resolution-on-BlueStacks-5)를 참고하세요.
+오른쪽 위 **≡ → 설정 → 디스플레이**에서 <strong>가로모드(16:9)</strong>를 사용합니다. 사진의 **1920×1080, 240 DPI**는 이 PC에서 사용한 예시입니다. 바꿨다면 **변경 사항 저장** 후 BlueStacks가 안내하는 재시작을 마칩니다. PC 사양에 맞는 설정은 [공식 화면 설정 안내](https://support.bluestacks.com/hc/en-us/articles/4402958247949-How-to-change-screen-resolution-on-BlueStacks-5)를 참고하세요.
 
 ![BlueStacks 설정의 디스플레이와 가로모드 실제 화면](docs/screens/onboarding/06-bluestacks-display.jpg)
 
 ## 4. BlueStacks의 ADB 켜기
 
-설정 왼쪽 **고급 기능 설정**에서 **Android 디버그 브리지(ADB)**를 켜고 **변경 사항 저장**을 누릅니다. 버전에 따라 메뉴명이 **고급 설정 / Advanced**로 보일 수 있습니다. 아래처럼 파란색이면 켜진 상태입니다. 사진에 나온 주소를 복사할 필요는 없습니다. 앱이 자동으로 찾습니다.
+설정 왼쪽 **고급 기능 설정**에서 <strong>Android 디버그 브리지(ADB)</strong>를 켜고 **변경 사항 저장**을 누릅니다. 버전에 따라 메뉴명이 **고급 설정 / Advanced**로 보일 수 있습니다. 아래처럼 파란색이면 켜진 상태입니다. 사진에 나온 주소를 복사할 필요는 없습니다. 앱이 자동으로 찾습니다.
 
 ![BlueStacks 고급 기능 설정에서 ADB가 켜진 실제 화면](docs/screens/onboarding/07-bluestacks-adb.jpg)
 
